@@ -1,0 +1,4 @@
+com.paisagames.arestaurant
+contraseña:armenu
+keyalias juan regules
+password:armenu

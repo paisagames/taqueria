@@ -1,0 +1,24 @@
+class CargarImagen{
+//URI Universal Resource Identificator
+	public boolean CargarModelo(String URI){
+		StreamReader Lector=new StreamReader();
+		boolean Response=Lector.read(URI);
+		if(Response){
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
+
+	public void Llamada(){
+//Path /var/www/hmlt/index.html
+		if(CargarModelo("https://www.midominio.com/files/vr/fruta.fbx")){
+			//Código para visualizar
+		}
+		else{
+			//Muestra mensaje de error
+		}
+	
+	}
+}

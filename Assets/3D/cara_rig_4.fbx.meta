@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: b9f1fc311c313544a820fbbc2ae58675
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: barba
+    100002: barba_izq
+    100004: barbaderecha
+    100006: BOCA
+    100008: boca_arr2
+    100010: boca_arr_1
+    100012: boca_arr_3
+    100014: cachete_arr_iz
+    100016: cachete_arrib_der
+    100018: cachete_der
+    100020: cachete_iz
+    100022: //RootNode
+    100024: frente
+    100026: frente1
+    100028: joint1
+    100030: joint10
+    100032: joint14
+    100034: joint15
+    100036: joint23
+    100038: joint3
+    100040: joint4
+    100042: joint4 1
+    100044: joint5
+    100046: joint7
+    100048: joint8
+    100050: joint9
+    100052: Low_Poly_Head:Mesh
+    100054: nariz
+    100056: ojo_der
+    100058: ojo_izq
+    100060: oreja_der
+    100062: oreja_iz
+    400000: barba
+    400002: barba_izq
+    400004: barbaderecha
+    400006: BOCA
+    400008: boca_arr2
+    400010: boca_arr_1
+    400012: boca_arr_3
+    400014: cachete_arr_iz
+    400016: cachete_arrib_der
+    400018: cachete_der
+    400020: cachete_iz
+    400022: //RootNode
+    400024: frente
+    400026: frente1
+    400028: joint1
+    400030: joint10
+    400032: joint14
+    400034: joint15
+    400036: joint23
+    400038: joint3
+    400040: joint4
+    400042: joint4 1
+    400044: joint5
+    400046: joint7
+    400048: joint8
+    400050: joint9
+    400052: Low_Poly_Head:Mesh
+    400054: nariz
+    400056: ojo_der
+    400058: ojo_izq
+    400060: oreja_der
+    400062: oreja_iz
+    2100000: phong2
+    4300000: Low_Poly_Head:Mesh
+    9500000: //RootNode
+    13700000: Low_Poly_Head:Mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
